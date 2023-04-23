@@ -149,7 +149,7 @@ const Qualification = () => {
 								<h3 className='qualification__title'>
 									 Software Engineer
 								</h3>
-								<span className='qualification__subtitle'></span> 
+								<span className='qualification__subtitle'>4000years Limited</span> 
 								<div className='qualification__calender'>
 									<i className='uil uil-calendar-alt'></i> May 2021 - Oct 2022
 								</div>

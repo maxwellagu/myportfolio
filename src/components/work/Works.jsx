@@ -4,18 +4,18 @@ import { projectsData, projectsNav } from "./Data";
 import Workitems from "./Workitems";
 
 const Works = () => {
-	const [item, setItem] = useState({ name: "all" });
+	const [item, setItem] = useState({ name: "Full-stack" });
 	const [projects, setProjects] = useState([]);
 	const [active, setActive] = useState(0);
 
 	useEffect(() => {
-		if (item.name === "all") {
+		if (item.name === "Full-stack") {
 			setProjects(projectsData);
 		} else {
-			const newProjects = projectsData.filter((project) => {
-				return project.category === item.name;
-			});
-			setProjects(newProjects);
+			// const newProjects = projectsData.filter((project) => {
+			// 	return project.category === item.name;
+			// });
+			// setProjects(newProjects);
 		}
     }, [item]);
     

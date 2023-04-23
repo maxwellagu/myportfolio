@@ -15,6 +15,6 @@ export const Data = [
 		image: Image3,
 		title: "Chidike Henry",
 		description:
-			"An excellent software engineering tutor. Highly recommended for their ability to improve coding skills and boost confidence.",
+			"An excellent software engineer. Highly recommended for their ability to build a functional and scalable application.",
 	},
 ];
