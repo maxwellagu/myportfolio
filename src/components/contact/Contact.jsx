@@ -4,7 +4,7 @@ import toast from 'react-hot-toast';
 import './contact.css'
 
 const Contact = () => {
-    const [state, handleSubmit] = useForm("xnqybndj");
+    const [state, handleSubmit] = useForm("mwkjaqwj");
 	if (state.succeeded) {
 			toast.success("Mail Sent Successfully!");
 			return <Contact/>;
@@ -23,9 +23,9 @@ const Contact = () => {
 							<i className='bx bx-mail-send contact__card-icon'></i>
 
 							<h3 className='contact__card-title'>Email</h3>
-							<span className='contact__card-data'>neolokor1@gmail.com</span>
+							<span className='contact__card-data'>maxwellebuka.agu@gmail.com</span>
 
-							<a href='mailto:neolokor1@gmail.com' className='contact__button'>
+							<a href='mailto:maxwellebuka.agu@gmail.com' className='contact__button'>
 								Write me
 								<i className='bx bx-right-arrow-alt contact__button-icon'></i>
 							</a>
@@ -35,17 +35,17 @@ const Contact = () => {
 							<i className='bx bxl-whatsapp contact__card-icon'></i>
 
 							<h3 className='contact__card-title'>Whatsapp</h3>
-							<span className='contact__card-data'>+2347066003709</span>
+							<span className='contact__card-data'>+2348165178855</span>
 
 							<a
-								href='https://api.whatsapp.com/send?phone=+2347066003709&text=Hello, more information!'
+								href='https://api.whatsapp.com/send?phone=+2348165178855&text=Hello, more information!'
 								className='contact__button'>
 								Write me
 								<i className='bx bx-right-arrow-alt contact__button-icon'></i>
 							</a>
 						</div>
 
-						<div className='contact__card'>
+						{/* <div className='contact__card'>
 							<i className='bx bxl-messenger contact__card-icon'></i>
 							<h3 className='contact__card-title'>Messenger</h3>
 							<span className='contact__card-data'>eolokor1</span>
@@ -53,7 +53,7 @@ const Contact = () => {
 								Write me
 								<i className='bx bx-right-arrow-alt contact__button-icon'></i>
 							</a>
-						</div>
+						</div> */}
 					</div>
 				</div>
 

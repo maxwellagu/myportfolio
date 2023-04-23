@@ -5,7 +5,7 @@ const Footer = () => {
 	return (
 		<footer className='footer'>
 			<div className='footer__container container'>
-				<h1 className='footer__title'>Olokor</h1>
+				<h1 className='footer__title'>Maxwell</h1>
 
 				<ul className='footer__list'>
 					<li>
@@ -28,16 +28,16 @@ const Footer = () => {
 				</ul>
 
 				<div className='footer__social'>
-					<a
+					{/* <a
 						href='https://www.instagram.com/nixhazel/'
 						className='footer__social-link'
 						target='_blank'
 						rel='noopener noreferrer'>
 						<i class='bx bxl-instagram'></i>
-					</a>
+					</a> */}
 
 					<a
-						href='https://www.linkedin.com/in/emmanuel-olokor-56b260244/'
+						href='https://www.linkedin.com/in/maxwell-agu-817588230/'
 						className='footer__social-link'
 						target='_blank'
 						rel='noopener noreferrer'>
@@ -45,7 +45,7 @@ const Footer = () => {
 					</a>
 
 					<a
-						href='https://twitter.com/EmmanuelOlokor'
+						href='https://twitter.com/Maxwell_lion2'
 						className='footer__social-link'
 						target='_blank'
 						rel='noopener noreferrer'>
@@ -53,7 +53,7 @@ const Footer = () => {
 					</a>
 
 					<a
-						href='https://github.com/Nixhazel'
+						href='https://github.com/maxwellagu'
 						className='footer__social-link'
 						target='_blank'
 						rel='noopener noreferrer'>
@@ -62,7 +62,7 @@ const Footer = () => {
 				</div>
 
 				<span className='footer__copy'>
-					&#169; Olokor O. Emmanuel. All rigths reserved
+					&#169; Maxwell Agu. All rigths reserved
 				</span>
 			</div>
 		</footer>

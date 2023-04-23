@@ -3,16 +3,16 @@ import React from "react";
 const Social = () => {
 	return (
 		<div className='home__social'>
-			<a
+			{/* <a
 				href='https://www.instagram.com/nixhazel/'
 				className='home__social-icon'
 				target='_blank'
 				rel='noopener noreferrer'>
 				<i class='uil uil-instagram'></i>
-			</a>
+			</a> */}
 
 			<a
-				href='https://www.linkedin.com/in/emmanuel-olokor-56b260244/'
+				href='https://www.linkedin.com/in/maxwell-agu-817588230/'
 				className='home__social-icon'
 				target='_blank'
 				rel='noopener noreferrer'>
@@ -20,7 +20,7 @@ const Social = () => {
 			</a>
 
 			<a
-				href='https://github.com/Nixhazel'
+				href='https://github.com/maxwellagu'
 				className='home__social-icon'
 				target='_blank'
 				rel='noopener noreferrer'>

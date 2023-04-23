@@ -38,7 +38,7 @@ const Services = () => {
 
 							<h3 className='services__modal-title'>Full Stack Developer</h3>
 							<p className='services__modal-description'>
-								Service with 2 years of experience. providing quality full stack
+								Service with 3 years of experience. providing quality full stack
 								applications to clients and companies.
 							</p>
 
@@ -120,7 +120,7 @@ const Services = () => {
 
 							<h3 className='services__modal-title'>Back-End Developer</h3>
 							<p className='services__modal-description'>
-								Service with 2 years of experience. providing quality server
+								Service with 3 years of experience. providing quality server
 								side applications to clients and companies.
 							</p>
 
@@ -144,7 +144,7 @@ const Services = () => {
 									<i className='uil uil-check-circle services__modal-icon'></i>
 									<p className='services__modal-info'>
 										Creating and managing databases, including data modeling,
-										schema design, and querying.
+										SQLServer design, and querying.
 									</p>
 								</li>
 
@@ -192,7 +192,7 @@ const Services = () => {
 
 							<h3 className='services__modal-title'>Front-End Developer</h3>
 							<p className='services__modal-description'>
-								Service with 2 years of experience. Providing quality Client
+								Service with 3 years of experience. Providing quality Client
 								side applications to clients and companies.
 							</p>
 
@@ -223,19 +223,19 @@ const Services = () => {
 								<li className='services__modal-service'>
 									<i className='uil uil-check-circle services__modal-icon'></i>
 									<p className='services__modal-info'>
-										Creating interactive and engaging user interfaces with
+										Creating interactive and engaging user interfaces with MVC and
 										modern JavaScript libraries and frameworks, such as React.
 									</p>
 								</li>
 
-								<li className='services__modal-service'>
+								{/* <li className='services__modal-service'>
 									<i className='uil uil-check-circle services__modal-icon'></i>
 									<p className='services__modal-info'>
 										Implementing search engine optimization (SEO) strategies to
 										improve the visibility and ranking of websites on search
 										engines.
 									</p>
-								</li>
+								</li> */}
 							</ul>
 						</div>
 					</div>

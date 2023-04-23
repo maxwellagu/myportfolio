@@ -46,12 +46,12 @@ const Qualification = () => {
 						}>
 						<div className='qualification__data'>
 							<div>
-								<h3 className='qualification__title'>BSc. Computer Science</h3>
+								<h3 className='qualification__title'>BSc. Biochemistry</h3>
 								<span className='qualification__subtitle'>
-									Federal University of Petroleum Resources
+									Federal University of Portharcourt
 								</span>
 								<div className='qualification__calender'>
-									<i className='uil uil-calendar-alt'></i> Nov 2016 - Sep 2021
+									<i className='uil uil-calendar-alt'></i> Nov 2014 - Feb 2019
 								</div>
 							</div>
 
@@ -88,7 +88,7 @@ const Qualification = () => {
 									Google Digital Skills for Africa
 								</span>
 								<div className='qualification__calender'>
-									<i className='uil uil-calendar-alt'></i> Oct 2022 - Present
+									<i className='uil uil-calendar-alt'></i> May 2022 - Nov 2022
 								</div>
 							</div>
 
@@ -98,7 +98,7 @@ const Qualification = () => {
 							</div>
 						</div>
 
-						<div className='qualification__data'>
+						{/* <div className='qualification__data'>
 							<div></div>
 
 							<div>
@@ -114,7 +114,7 @@ const Qualification = () => {
 									<i className='uil uil-calendar-alt'></i> Nov 2022 - Present
 								</div>
 							</div>
-						</div>
+						</div> */}
 					</div>
 
 					<div
@@ -147,16 +147,16 @@ const Qualification = () => {
 							</div>
 							<div>
 								<h3 className='qualification__title'>
-									MERN Stack Software Engineering Tutor
+									 Software Engineer
 								</h3>
-								<span className='qualification__subtitle'>Freelancing</span>
+								<span className='qualification__subtitle'></span> 
 								<div className='qualification__calender'>
-									<i className='uil uil-calendar-alt'></i> Sep 2021 - Present
+									<i className='uil uil-calendar-alt'></i> May 2021 - Oct 2022
 								</div>
 							</div>
 						</div>
 
-						<div className='qualification__data'>
+						{/* <div className='qualification__data'>
 							<div>
 								<h3 className='qualification__title'>IT Support</h3>
 								<span className='qualification__subtitle'>Nestoil</span>
@@ -169,7 +169,7 @@ const Qualification = () => {
 								<span className='qualification__rounder'></span>
 								<span className='qualification__line'></span>
 							</div>
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</div>

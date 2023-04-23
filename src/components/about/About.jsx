@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/aboutvs.jpg";
-import CV from "../../assets/Emmanuel O. Olokor Resume(CV).pdf";
+import CV from "../../assets/Maxwell's Resume.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,9 +17,9 @@ const About = () => {
 					<Info />
 
 					<p className='about__description'>
-						Looking for a MERN Stack Developer to bring your web application
-						ideas to life? Look no further! With expertise in MongoDb, MySql,
-						Express, React, Node, Typescript and GraphQL, I am your go-to
+						Looking for a .Net Stack Developer to bring your web application
+						ideas to life? Look no further! With expertise in ASP.NetCore,
+						postgres, React, C#, Entity Framework, version control with Git and GitHub, and SQL server, I am your go-to
 						developer for building sustainable client and server-side projects.
 						Let's work together to create a dynamic and engaging online
 						experience for your audience!

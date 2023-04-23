@@ -11,7 +11,7 @@ const Backend = () => {
 						<i class='bx bx-badge-check'></i>
 
 						<div>
-							<h3 className='skills__name'>Node Js</h3>
+							<h3 className='skills__name'>.NetCore Web Api</h3>
 							<span className='skills__level'>Advanced</span>
 						</div>
 					</div>
@@ -20,7 +20,7 @@ const Backend = () => {
 						<i class='bx bx-badge-check'></i>
 
 						<div>
-							<h3 className='skills__name'>Express</h3>
+							<h3 className='skills__name'>C#</h3>
 							<span className='skills__level'>Advanced</span>
 						</div>
 					</div>
@@ -29,7 +29,7 @@ const Backend = () => {
 						<i class='bx bx-badge-check'></i>
 
 						<div>
-							<h3 className='skills__name'>GraphQL</h3>
+							<h3 className='skills__name'>EFC</h3>
 							<span className='skills__level'>Proficient</span>
 						</div>
 					</div>
@@ -38,7 +38,7 @@ const Backend = () => {
 						<i class='bx bx-badge-check'></i>
 
 						<div>
-							<h3 className='skills__name'>MySql</h3>
+							<h3 className='skills__name'>SQLserver</h3>
 							<span className='skills__level'>Advanced</span>
 						</div>
 					</div>
@@ -49,7 +49,7 @@ const Backend = () => {
 						<i class='bx bx-badge-check'></i>
 
 						<div>
-							<h3 className='skills__name'>MongoDB</h3>
+							<h3 className='skills__name'>Postgres</h3>
 							<span className='skills__level'>Advanced</span>
 						</div>
 					</div>

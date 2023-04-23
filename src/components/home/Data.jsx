@@ -4,7 +4,7 @@ const Data = () => {
 	return (
 		<div className='home__data'>
 			<h1 className='home__title'>
-				Emmanuel O. Olokor
+				Maxwell Agu
 				<svg
 					width='36'
 					height='36'
@@ -46,8 +46,8 @@ const Data = () => {
 			</h1>
 			<h3 className='home__subtitle'>Software Engineer</h3>
 			<p className='home__description'>
-				As a Software Engineer, I am driven by a deep passion for acquiring new
-				skills and expertise to create stunning and fully responsive websites.
+				 I am a result-driven software engineer, passionate about technology and programming, 
+				with firm understanding of the SOLID principle in building clean, efficient and scalable software solutions.
 			</p>
 
 			<a href='#contact' className='button button--flex'>
